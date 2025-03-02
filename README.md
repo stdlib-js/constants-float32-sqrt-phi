@@ -153,6 +153,12 @@ Macro for the square root of the [golden ratio][@stdlib/constants/float32/phi] a
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/constants-float64/sqrt-phi`][@stdlib/constants/float64/sqrt-phi]</span><span class="delimiter">: </span><span class="description">square root of the golden ratio.</span>
+
 </section>
 
 <!-- /.related -->
@@ -232,6 +238,8 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 [@stdlib/constants/float32/phi]: https://github.com/stdlib-js/constants-float32-phi
 
 <!-- <related-links> -->
+
+[@stdlib/constants/float64/sqrt-phi]: https://github.com/stdlib-js/constants-float64-sqrt-phi
 
 <!-- </related-links> -->
 
