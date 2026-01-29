@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import FLOAT32_SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-phi@esm/index.mjs';
+import FLOAT32_SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-phi@v0.1.0-esm/index.mjs';
 ```
 
 #### FLOAT32_SQRT_PHI
@@ -72,7 +72,7 @@ var bool = ( FLOAT32_SQRT_PHI === 1.272019624710083 );
 <body>
 <script type="module">
 
-import FLOAT32_SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-phi@esm/index.mjs';
+import FLOAT32_SQRT_PHI from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float32-sqrt-phi@v0.1.0-esm/index.mjs';
 
 console.log( FLOAT32_SQRT_PHI );
 // => 1.272019624710083
